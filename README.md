@@ -38,8 +38,8 @@ src="https://img.shields.io/twitter/follow/LoArtDev?logo=twitter&style=for-the-b
 <b>My GitHub Stats</b>
 
 <div align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?username=SimonLopezJara&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1](https://github-readme-stats.vercel.app/api?username=SimonLopezJara&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=171717&hide_border=true&show_icons=true)" height="150" alt="stats graph"  />
-  <img src="[https://github-readme-stats.vercel.app/api/top-langs?username=SimonLopezJara&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2](https://github-readme-streak-stats.herokuapp.com/?user=SimonLopezJara&stroke=ffffff&background=171717&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=SimonLopezJara&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=171717&hide_border=true&show_icons=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SimonLopezJara&stroke=ffffff&background=171717&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 ### Support Me
