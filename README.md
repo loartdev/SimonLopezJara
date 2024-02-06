@@ -4,8 +4,11 @@ Hi 👋 My name is Simón López Jaramillo
 Web and Game Designer and Developer
 -----------------------------------
 
-a designer and developer with a passion for creating stunning games and websites. I have experience in game and web design/development, and 3D art and character design. Some of my projects include: Samurai Trader: A game where you play as a veteran samurai turned travelling merchant, delivering vital goods between towns in a war-torn land. Party Madness: A multiplayer party game that tests your skills and competitive spirit in a series of hilarious and unpredictable minigames. New Project: A landing page for a new project that features a captivating design, streamlined job search, stunning visuals, and an appealing color palette. I’m always eager to learn new skills and technologies, and to collaborate with other creative minds. Feel free to check out my portfolio, LoArt & Dev, and contact me if you’re interested in working with me. Thanks for visiting my profile! 😊
-
+I am a designer and developer with a passion for creating stunning games and websites. I have experience in game and web design/development, as well as 3D art and character design. Some of my projects include:
+- Nozomi: A game where you play as a veteran samurai turned travelling merchant, delivering vital goods between towns in a war-torn land.
+- Party Madness: A multiplayer party game that tests your skills and competitive spirit in a series of hilarious and unpredictable minigames.
+- Sinfonia.Co Redesign: A landing page for a new project that features a captivating design, streamlined job search, stunning visuals, and an appealing colour palette. I’m always eager to learn new skills and technologies and collaborate with other creative minds.
+-----------------------------------
 * 🌍  I'm based in Colombia And Canada
 * 🖥️  See my portfolio at [My Website](http://loart.dev)
 * ✉️  You can contact me at [simon.lopezj2@gmail.com](mailto:simon.lopezj2@gmail.com)
@@ -33,13 +36,13 @@ src="https://img.shields.io/twitter/follow/LoArtDev?logo=twitter&style=for-the-b
 ### Badges
 
 <b>My GitHub Stats</b>
-
+<div aling="center">
 <a href="http://www.github.com/SimonLopezJara"><img src="https://github-readme-stats.vercel.app/api?username=SimonLopezJara&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=171717&hide_border=true&show_icons=true" alt="SimonLopezJara's GitHub stats" /></a>
 
 <a href="http://www.github.com/SimonLopezJara"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SimonLopezJara&stroke=ffffff&background=171717&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/SimonLopezJara" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimonLopezJara&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
+</div>
 ### Support Me
 
 <ul style="list-style-type: none; margin: 0;">
